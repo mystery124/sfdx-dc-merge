@@ -1,5 +1,3 @@
-dc-merge
-========
 
 Merges package.xml and desctructiveChanges.xml files
 
@@ -94,3 +92,6 @@ $ NODE_OPTIONS=--inspect-brk bin/run hello:org -u myOrg@example.com
 6. Hit the green play button at the top middle of VS Code (this play button will be to the right of the play button that you clicked in step #5).
 <br><img src=".images/vscodeScreenshot.png" width="480" height="278"><br>
 Congrats, you are debugging!
+=======
+# sfdx-dc-merge
+ ? description
